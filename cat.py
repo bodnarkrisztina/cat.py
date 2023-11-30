@@ -1,5 +1,5 @@
 import streamlit as st 
-layer1 = st.write("°","°","°","°","°","°","°","°","°","°","°"","O","°","°"","°","°","°","°")
+layer1 = st.write("°","°","°","°","°","°","°","°","°","°","°"","o","°","°"","°","°","°","°")
 layer2 = st.write(
 layer3 = st.write(
 layer4 = st.write(
