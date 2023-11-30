@@ -11,7 +11,7 @@ def load_data():
         }
     )
 
-
+ 
 st.checkbox("Use container width", value=False, key="use_container_width")
 
 df = load_data()
