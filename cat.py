@@ -1,2 +1,2 @@
 import streamlit as st
-layer = st.write("   ","_","      ","_","      ")
+layer = st.write("...","o","......","o","......")
