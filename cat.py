@@ -6,8 +6,8 @@ import streamlit as st
 def load_data():
     return pd.DataFrame(
         {
-            "first column": [1, 2, 3, 4],
-            "second column": [10, 20, 30, 40],
+            "első rács": [1, 2, 3, 4],
+            "második rács": [10, 20, 30, 40],
         }
     )
 
