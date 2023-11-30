@@ -1,4 +1,4 @@
-import streamlit as st ⬜    ⬛
+import streamlit as st 
 layer1 = st.write("⬜","⬜""⬜","⬜","⬜","⬜","⬜","⬜","⬜","⬜","⬜","⬛","⬜","⬜","⬜","⬜","⬜","⬜")
 layer2 = st.write("⬜","⬜","⬜","⬛,"⬜","⬜","⬜","⬜","⬜","⬜","⬛","⬛","⬛","⬜","⬜","⬜","⬜","⬜")
 layer3 = st.write(
